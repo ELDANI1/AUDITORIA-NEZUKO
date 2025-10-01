@@ -61,7 +61,8 @@ Herramienta completa de auditoría de seguridad web con descubrimiento de subdom
 
 ```bash
 # Clonar repositorio
-git clone 
+https://github.com/ELDANI1/AUDITORIA-NEZUKO
+ DESPUES CON LS VERIFICAMOS QUE ESTE , Y YA DAMOS EL SIGUIENTE COMANDO 
 
 cd web-spider-audit
 
